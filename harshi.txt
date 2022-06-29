@@ -1,0 +1,149 @@
+<html>
+ <head>
+ <title> PORTFOLIO</title>
+ <link rel="stylesheet" href="main.css">
+ </head>
+ <body>
+	<header>
+	  <h1>PORTFOLIO</h1>
+	<div id="text">
+		<p> Hellooo.....</p>
+		<p>I'm Harshitha</p>
+		<pre> My Portfolio</pre>
+	</div>
+	<div> 
+		<ul>
+			<li><a href="home.html">HOME</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+			<li><a href="education.html">EDUCATION</a></li>
+			<li><a href="skills.html">SKILLS</a></li>
+		</ul>
+	</div>
+	</header>
+ </body>
+</html>
+  
+
+--------------------------
+ 
+<div id="education">
+	<p>*B.Tech<br>
+	    Sree Venkateswara College Of Engineering<BR>
+            CGPA:8.7</p><br>
+	<p>*Intermediate<br>
+	    Narayana Junior College<br>
+	    CGPA:9.8</P><br>
+	<p>*SSC<br>
+	    Narayana EM School<br>
+	    CGPA:9.8</P>
+<div>
+
+--------------------------
+
+<div id="skills">
+	<div id="skills-left>
+		<p>I'm 
+  		</p>
+	<div>
+	<div id="skills-right">
+		<p>HTML<br><progress value="80" max="100">80%</progress>
+		<p>CSS<br><progress value="60" max="100">60%</progress>
+		<p>C<br><progress value="80" max="100">80%</progress>
+		<p>PYTHON<br><progress value="70" max="100">70%</progress>
+		<p>JAVA<br><progress value="50" max="100">50%</progress>
+	</div>
+<div>
+
+-------------------------
+
+
+<p id="introduction">
+	LET ME INTRODUCE MYSELF<br><br>
+</p>
+<div id="about">
+	<p>I'm Harshitha</p>
+	<pre>.......</pre>
+</div>
+
+---------------------------
+
+
+<div id="logo">
+	<img src="fb.png" width="50px">
+	<img src="insta.png" width="50px">
+	<img src="twitter.png" width="50px">
+<div>
+
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
